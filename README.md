@@ -5,9 +5,11 @@ Short Presentation
 Projects:
 - Maglev
 - Nadir Pointing
+- Cardboard
+
+
 - Network
 - IoT
-- Cardboard
 - Thesis
 - Macchine Elettriche
 - CAM
