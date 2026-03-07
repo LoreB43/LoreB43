@@ -44,7 +44,25 @@ https://github.com/LoreB43/Magnetic-Levitation-Control
 
 ---
 
-- Cardboard
+## 📦 Industrial Machine Vision system for real-time cardboard quality control. 
+Developed at Politecnico di Milano. Features: RGB channel analysis, automated defect scoring (geometry/texture/folds), and high-speed conveyor optimization (111 m/min). Built with Python & OpenCV.
+Inserisci nel README la Figure 14 (Reference vs Processed) o la Figure 18 (Damage Detection Process). Una GIF che mostra il passaggio da "Raw Image" a "Detected Defect" ha un impatto altissimo.
+Keywords: Assicurati di includere nei "Topics" del repository: computer-vision, opencv, quality-control, python, industrial-automation, measurement-systems.
+
+🔗 Repository:  
+https://github.com/LoreB43/Cardboard-Defect-Detection
+
+### 🏷️ Tags
+![computer-vision](https://img.shields.io/badge/computer--vision-blue?style=plastic)
+![opencv](https://img.shields.io/badge/opencv-blue?style=plastic)
+![quality-control](https://img.shields.io/badge/quality--control-blue?style=plastic)
+![industrial-automation](https://img.shields.io/badge/industrial--automation-blue?style=plastic)
+![Optimal-Control](https://img.shields.io/badge/measurement--systems-blue?style=plastic)
+
+<img src="https://github.com/user-attachments/assets/76ba820f-3031-4086-9a18-ab47cbd89556" width="50%">
+
+---
+
 - Macchine Elettriche
 - Meccanica Gru
 - Network
