@@ -2,37 +2,37 @@
 
 Short Presentation
 
-Projects:
-- Maglev
-- Nadir Pointing
-- Cardboard
-[Nadir Pointing]([https://github.com/LoreB43/](https://github.com/LoreB43/Optimal-Control-for-spacecraft-Nadir-pointing))
+# Projects
 
+## 🛰 Spacecraft Nadir Pointing Control
+
+Simulation of spacecraft attitude dynamics and optimal PID control.
+
+🔗 Repository:  
+https://github.com/LoreB43/Optimal-Control-for-spacecraft-Nadir-pointing
+
+<img src="https://github.com/user-attachments/assets/674ef203-c246-4900-aa4b-9d4b5a04e3e8" width="30%">
+
+---
+
+
+## 🧲 Magnetic Levitation Control System
+
+Control and stabilization of a **magnetic levitation (MagLev) system** using feedback control techniques.
+The project focuses on modeling the nonlinear dynamics of the levitating object and designing a controller to maintain stable levitation through real-time feedback.
+
+🔗 Repository:  
+https://github.com/LoreB43/Magnetic-Levitation-Control
+
+<img src="https://github.com/user-attachments/assets/786fa2fa-ad98-4655-bd64-cc3212944a56" width="20%">
+<img src="https://github.com/user-attachments/assets/1e7f0f8c-9dd7-4aea-8643-778f8e841502" width="150">
+
+---
+
+- Cardboard
 - Network
 - IoT
 - Thesis
 - Macchine Elettriche
 - CAM
 - Meccanica Gru
-
-
-## 🚀 Projects
-
-
-### 🛰 Spacecraft Nadir Pointing Control
-<img src="https://github.com/user-attachments/assets/674ef203-c246-4900-aa4b-9d4b5a04e3e8" width="30%">
-Simulation of spacecraft attitude dynamics and optimal PID control.
-
-
-🔗 Repository:  
-https://github.com/LoreB43/Optimal-Control-for-spacecraft-Nadir-pointing
-
-
-
----
-
-### 🌐 Network Operations Center Monitoring System
-Real-time monitoring architecture for network traffic analysis.
-
-🔗 Repository:  
-https://github.com/tuo-username/noc-monitoring-system
