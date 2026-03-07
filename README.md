@@ -13,6 +13,17 @@ https://github.com/LoreB43/Optimal-Control-for-spacecraft-Nadir-pointing
 
 <img src="https://github.com/user-attachments/assets/674ef203-c246-4900-aa4b-9d4b5a04e3e8" width="30%">
 
+### 🏷️ Tags
+![Spacecraft](https://img.shields.io/badge/Spacecraft-blue?style=plastic)
+![Attitude-Control](https://img.shields.io/badge/Attitude--Control-blue?style=plastic)
+![PID](https://img.shields.io/badge/PID-blue?style=plastic)
+![Simulation](https://img.shields.io/badge/Simulation-blue?style=plastic)
+![Optimal-Control](https://img.shields.io/badge/Optimal--Control-blue?style=plastic)
+
+### 🛠️ Tools
+Matlab | Simulink | Control System Toolbox | 
+
+
 ---
 
 
