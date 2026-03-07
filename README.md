@@ -41,9 +41,8 @@ https://github.com/LoreB43/Magnetic-Levitation-Control
 ---
 
 - Cardboard
+- Macchine Elettriche
+- Meccanica Gru
 - Network
 - IoT
 - Thesis
-- Macchine Elettriche
-- CAM
-- Meccanica Gru
