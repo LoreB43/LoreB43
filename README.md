@@ -1,6 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
-Short Presentation
+💼 Aspiring Control Systems Engineer  
+🤖 Passion for simulation and automation  
+🌟 Open to opportunities  
+
+🚀 Here are some of my projects:
 
 # Projects
 
