@@ -18,8 +18,11 @@ Projects:
 
 ## 🚀 Projects
 
+
 ### 🛰 Spacecraft Nadir Pointing Control
+<img src="https://github.com/user-attachments/assets/674ef203-c246-4900-aa4b-9d4b5a04e3e8" width="30%">
 Simulation of spacecraft attitude dynamics and optimal PID control.
+
 
 🔗 Repository:  
 https://github.com/LoreB43/Optimal-Control-for-spacecraft-Nadir-pointing
