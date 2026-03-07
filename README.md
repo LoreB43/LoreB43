@@ -22,7 +22,7 @@ Projects:
 Simulation of spacecraft attitude dynamics and optimal PID control.
 
 🔗 Repository:  
-https://github.com/LoreB43/](https://github.com/LoreB43/Optimal-Control-for-spacecraft-Nadir-pointing
+https://github.com/LoreB43/Optimal-Control-for-spacecraft-Nadir-pointing
 
 
 
