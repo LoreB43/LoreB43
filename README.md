@@ -69,9 +69,31 @@ https://github.com/LoreB43/Cardboard-Defect-Detection
 <img src="https://github.com/user-attachments/assets/76ba820f-3031-4086-9a18-ab47cbd89556" width="50%">
 
 ---
+## Macchine Elettriche
+🔗 Repository:
+https://github.com/LoreB43/DC-Electic-Machine-Control
 
-- Macchine Elettriche
-- Meccanica Gru
-- Network
-- IoT
-- Thesis
+---
+
+## Meccanica Gru
+🔗 Repository:
+https://github.com/LoreB43/Harbour-Crane
+
+---
+
+
+## Network
+🔗 Repository:
+https://github.com/LoreB43/Networked-Control
+
+---
+
+## IoT
+🔗 Repository:  
+https://github.com/LoreB43/IoT
+
+---
+
+## Thesis
+🔗 Repository:
+
