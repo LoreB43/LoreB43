@@ -15,13 +15,7 @@ Simulation of spacecraft attitude dynamics and optimal PID control.
 🔗 Repository:  
 https://github.com/LoreB43/Optimal-Control-for-spacecraft-Nadir-pointing
 
-<img src="https://github.com/user-attachments/assets/7ef14396-e7b7-452c-90c3-7a6fcc33eb51" width="30%">
-
-![videoplayback-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5855d8c0-a71d-4ffe-8860-229c7a5a1de8)
-
-https://github.com/user-attachments/assets/ab3a2645-298a-4c39-a1ed-d63f3e119dee
-
-
+<img src="https://github.com/user-attachments/assets/5855d8c0-a71d-4ffe-8860-229c7a5a1de8" width="35%">
 <img src="https://github.com/user-attachments/assets/674ef203-c246-4900-aa4b-9d4b5a04e3e8" width="30%">
 
 ### 🏷️ Tags
@@ -30,10 +24,9 @@ https://github.com/user-attachments/assets/ab3a2645-298a-4c39-a1ed-d63f3e119dee
 ![PID](https://img.shields.io/badge/PID-blue?style=plastic)
 ![Simulation](https://img.shields.io/badge/Simulation-blue?style=plastic)
 ![Optimal-Control](https://img.shields.io/badge/Optimal--Control-blue?style=plastic)
-
-### 🛠️ Tools
-Matlab | Simulink | Control System Toolbox | 
-
+![Matlab](https://img.shields.io/badge/Matlab-blue?style=plastic)
+![Simulink](https://img.shields.io/badge/Simulink-blue?style=plastic)
+![Control-System-Toolbox](https://img.shields.io/badge/Control--System--Toolbox-blue?style=plastic)
 
 ---
 
@@ -59,15 +52,14 @@ Keywords: Assicurati di includere nei "Topics" del repository: computer-vision, 
 🔗 Repository:  
 https://github.com/LoreB43/Cardboard-Defect-Detection
 
+<img src="https://github.com/user-attachments/assets/76ba820f-3031-4086-9a18-ab47cbd89556" width="50%">
+
 ### 🏷️ Tags
 ![computer-vision](https://img.shields.io/badge/computer--vision-blue?style=plastic)
 ![opencv](https://img.shields.io/badge/opencv-blue?style=plastic)
 ![quality-control](https://img.shields.io/badge/quality--control-blue?style=plastic)
 ![industrial-automation](https://img.shields.io/badge/industrial--automation-blue?style=plastic)
 ![Optimal-Control](https://img.shields.io/badge/measurement--systems-blue?style=plastic)
-
-<img src="https://github.com/user-attachments/assets/76ba820f-3031-4086-9a18-ab47cbd89556" width="50%">
-
 ---
 ## Macchine Elettriche
 🔗 Repository:
