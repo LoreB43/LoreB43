@@ -111,9 +111,19 @@ https://github.com/LoreB43/Networked-Control
 
 ---
 
-## IoT
+## IoT Project: Parking sensor
+Several IoT Projects
+
 🔗 Repository:  
 https://github.com/LoreB43/IoT
+
+<img src="https://github.com/user-attachments/assets/a1d45d2b-3425-44c9-a377-cbfceed11b18" width="30%" >
+
+### 🏷️ Tags
+![IoT-Projects](https://img.shields.io/badge/IoT--Projects-blue?style=plastic)
+![Arduino-IDE](https://img.shields.io/badge/Arduino--IDE-blue?style=plastic)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=plastic)
+![Telecomunication](https://img.shields.io/badge/Telecomunication-blue?style=plastic)
 
 ---
 
