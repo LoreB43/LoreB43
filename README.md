@@ -8,9 +8,8 @@
 
 # Projects
 
-## 🛰 Spacecraft Nadir Pointing Control
-
-Simulation of spacecraft attitude dynamics and optimal PID control.
+## 🛰 Satelite Nadir Pointing Control
+Development of a simulation for satellite kinematics and dynamics using MATLAB/Simulink. Design and implementation of a Model-Based Optimal Controller to maintain a stable Nadir-pointing orientation (keeping the satellite's payload facing Earth).
 
 🔗 Repository:  
 https://github.com/LoreB43/Optimal-Control-for-spacecraft-Nadir-pointing
@@ -20,12 +19,10 @@ https://github.com/LoreB43/Optimal-Control-for-spacecraft-Nadir-pointing
 
 ### 🏷️ Tags
 ![Spacecraft](https://img.shields.io/badge/Spacecraft-blue?style=plastic)
-![Attitude-Control](https://img.shields.io/badge/Attitude--Control-blue?style=plastic)
-![PID](https://img.shields.io/badge/PID-blue?style=plastic)
+![Modelling](https://img.shields.io/badge/Modelling-blue?style=plastic)
 ![Simulation](https://img.shields.io/badge/Simulation-blue?style=plastic)
 ![Optimal-Control](https://img.shields.io/badge/Optimal--Control-blue?style=plastic)
 ![Matlab](https://img.shields.io/badge/Matlab-blue?style=plastic)
-![Simulink](https://img.shields.io/badge/Simulink-blue?style=plastic)
 ![Control-System-Toolbox](https://img.shields.io/badge/Control--System--Toolbox-blue?style=plastic)
 
 ---
