@@ -30,7 +30,7 @@ https://github.com/LoreB43/Optimal-Control-for-spacecraft-Nadir-pointing
 
 ## 🧲 Magnetic Levitation Control System
 
-Control and stabilization of a **magnetic levitation (MagLev) system** using feedback control techniques.
+Control and stabilization of a **magnetic levitation (MagLev) system** using feedback control techniques.  
 The project focuses on modeling the nonlinear dynamics of the levitating object and designing a controller to maintain stable levitation through real-time feedback.
 
 🔗 Repository:  
@@ -42,9 +42,7 @@ https://github.com/LoreB43/Magnetic-Levitation-Control
 ---
 
 ## 📦 Industrial Machine Vision system for real-time cardboard quality control. 
-Developed at Politecnico di Milano. Features: RGB channel analysis, automated defect scoring (geometry/texture/folds), and high-speed conveyor optimization (111 m/min). Built with Python & OpenCV.
-Inserisci nel README la Figure 14 (Reference vs Processed) o la Figure 18 (Damage Detection Process). Una GIF che mostra il passaggio da "Raw Image" a "Detected Defect" ha un impatto altissimo.
-Keywords: Assicurati di includere nei "Topics" del repository: computer-vision, opencv, quality-control, python, industrial-automation, measurement-systems.
+Implementation of a real-time Industrial Machine Vision System to check and control the quality of the cardboards on the conveyor belt
 
 🔗 Repository:  
 https://github.com/LoreB43/Cardboard-Defect-Detection
@@ -84,5 +82,6 @@ https://github.com/LoreB43/IoT
 ---
 
 ## Thesis
+Work in Progess
 🔗 Repository:
 
