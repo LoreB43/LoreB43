@@ -47,7 +47,7 @@ https://github.com/LoreB43/Magnetic-Levitation-Control
 
 ---
 
-## 📦 Industrial Machine Vision system for real-time cardboard quality control. 
+## 📦 Cardboard Defects Detection - Machine Vision System
 Implementation of a real-time machine vision pipeline designed to ensure quality control in packaging production lines by detecting geometrical, texture, and structural defects in cardboards.
 
 🔗 Repository:  
